@@ -1,0 +1,1 @@
+var liczba = 0;
